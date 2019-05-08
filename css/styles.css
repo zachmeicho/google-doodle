@@ -17,3 +17,11 @@
   height: 300px;
   width: 600px;
 }
+
+.G {
+  fill: red;
+  position: absolute;
+  width: 80%;
+  left: 60px;
+  top: -50px;
+}
