@@ -19,7 +19,7 @@
   position: relative;
 }
 
-.G {
+.G1 {
   position: absolute;
   width: 200%;
   left: -400px;
@@ -38,4 +38,25 @@
   width: 60%;
   left: 150px;
   top: -37px;
+}
+
+.G2 {
+  position: absolute;
+  width: 200%;
+  left: -10px;
+  top: -250px;
+}
+
+.L {
+    position: absolute;
+    width: 200%;
+    left: 180px;
+    top: -225px;
+}
+
+.E {
+  position: absolute;
+  width: 200%;
+  left: 200px;
+  top: -192px;
 }
