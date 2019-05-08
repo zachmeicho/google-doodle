@@ -16,6 +16,7 @@ $('.puck1').click( function(){
 });
 
 
+
 // second puck 
   $('.puck2').click( function(){
   

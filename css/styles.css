@@ -166,7 +166,8 @@ img {
 
 .flip-horizontal-bottom:hover {
 	-webkit-animation: flip-horizontal-bottom 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
-	        animation: flip-horizontal-bottom 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+          animation: flip-horizontal-bottom 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+          
 }
 
 /* ----------------------------------------------
@@ -362,7 +363,8 @@ img {
 
 .flip-scale-up-hor:hover {
 	-webkit-animation: flip-scale-up-hor 0.5s linear both;
-	        animation: flip-scale-up-hor 0.5s linear both;
+          animation: flip-scale-up-hor 0.5s linear both;
+          
 }
 
 /* ----------------------------------------------
@@ -409,7 +411,7 @@ img {
 
 .slide-top {
 	-webkit-animation: slide-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-	        animation: slide-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          animation: slide-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }
 
 /* ----------------------------------------------
