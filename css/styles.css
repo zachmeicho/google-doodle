@@ -16,12 +16,26 @@
   background: #ccc;
   height: 300px;
   width: 600px;
+  position: relative;
 }
 
 .G {
-  fill: red;
   position: absolute;
-  width: 80%;
-  left: 60px;
-  top: -50px;
+  width: 200%;
+  left: -400px;
+  top: -250px;
+}
+
+.puck1 {
+  position: absolute;
+  width: 60%;
+  left: 15px;
+  top: -37px;
+}
+
+.puck2 {
+  position: absolute;
+  width: 60%;
+  left: 150px;
+  top: -37px;
 }
